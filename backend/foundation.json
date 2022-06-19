@@ -1,0 +1,171 @@
+{
+    "main-prod": [
+      {
+        "id": 1,
+        "title": "Foundation",
+        "img": "https://3.imimg.com/data3/BX/CS/MY-3792183/foundation-500x500.jpg",
+        "f1": "Easy spreading, water proof, Non oily formula.",
+        "f2": "Enriched with Vitamin-E and Aloe vera.",
+        "f3": "Improves natural skin texure.",
+        "f4": "Used as a base to adhere other make up products.",
+        "f5": "Controls Sebum to give your facial skin a flawless matt finish all day long.",
+        "category": "foundation"
+      },
+      {
+        "id": 2,
+        "title": "Compact",
+        "img": "https://3.imimg.com/data3/YL/EJ/MY-3792183/01-500x500.jpg",
+        "f1": "Oil control, water proof formula.",
+        "f2": "Matte velvet finish all day long.",
+        "f3": "Applies and blends easily on skin.",
+        "f4": "A fine powder enriched with oil absorbers.",
+        "f5": "UV-filters and moisturizer.",
+        "category": "foundation"
+      },
+      {
+        "id": 3,
+        "title": "Pan Cake Foundation",
+        "img": "https://3.imimg.com/data3/VL/AM/MY-3792183/pan-cake-500x500.jpg",
+        "f1": "A light scattering cake make up specialy made for face and body.",
+        "f2": "Proffesional make up foundation in stick form.",
+        "f3": "Used as a base to adhere other make up products.",
+        "f4": "With UV-absorbers.",
+        "f5": "Easily blended, seamless, mattifing-pros.",
+        "category": "foundation"
+      },
+      {
+        "id": 4,
+        "title": "Pan Stick Foundation",
+        "img": "https://3.imimg.com/data3/LX/OI/MY-3792183/pan-stick-500x500.jpg",
+        "f1": "Proffesional make up foundation in stick form.",
+        "f2": "Used as a base to adhere other make up products.",
+        "f3": "With UV-absorbers.",
+        "f4": "Improve skin-brightening",
+        "f5": "Antioxidant vitamins,contains mineral pigments which provide a sheer.",
+        "category": "foundation"
+      }
+    ],
+    "side-prod": [
+      {
+        "id": 5,
+        "title": "The Diva Kit",
+        "img": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcRgwgq2_NvTH7YRRMzAKjJNhS62axKnrIdqN604nO7iDL08RtEPgrRJ49azRgRB45NnLxjkrjljNn3VGGk59P_MTf1TxMZT2tXXRK-3_jctj_1lqsmgHZzA2Q&usqp=CAs",
+        "price": 1675,
+        "category": "foundation"
+      },
+      {
+        "id": 6,
+        "title": "The Essential Kit",
+        "img": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcTjvqXv8wtLuKKjHFUPGUDhrop5xnRjtOLaBqZmVi6naAYfBWgq4yGTu-qA6PUZuvfCzJ-5YlI-73Azbmx_kZ3Le-m8znyYJ3YtXoThsiyC__cKLUiwLlHb-w&usqp=CAs",
+        "price": 1035,
+        "category": "foundation"
+      },
+      {
+        "id": 7,
+        "title": "NY Bae Pink Pouch | Makeup",
+        "img": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcRtS0uuDUIKQmM7VYPrnUTDpz3jgp-vFBf-DatuOUGDZfQTKzXvv_sb3IZUt263goS-IbCMd4veDjOPBaqEotwP55s3GpBx1YTP0BD8ULO5xm_AYKqQe80&usqp=CAs",
+        "price": 260,
+        "category": "foundation"
+      },
+      {
+        "id": 8,
+        "title": "Blue Heaven Powder Matte",
+        "img": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcTV1YMJdlklqQ0_8cbsXq6Bc-cHd84UIXXfFh5RivliKcrM9E_03AzAcyhXKUNQ_LDkI0fnEnjbWR6xVZ9oNGOcNlYOV3H2D18hvhrrRK2_UUyOKVvvWYLu&usqp=CAs",
+        "price": 123,
+        "category": "foundation"
+      },
+      {
+        "id": 9,
+        "title": "Maybelline Foundation: Fit",
+        "img": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcRbbkrcPtOKhfQkQm7yD2dF7eCdNbvttIVL60TJsloNZJNZg8XsP5aOpcHdVJpKsFWfvUOrs8Qjj4wjUhqBO2hpnYD30dywHwc4NoqmhrocOlkQn4d_pTgu&usqp=CAs",
+        "price": 384,
+        "category": "foundation"
+      },
+      {
+        "id": 10,
+        "title": "99 Color Brazilian Professional",
+        "img": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcQZf1S7SkCEKs1ks5AKlQmIm1mw6MbiMiNzaEE5fGMWYFsu0FWX6DQbwpCIM-KhYUGqlJyUJa2_YkiGBgX7lwelnxmhYRa3SHmlZu4p0HD6&usqp=CAs",
+        "price": 1999,
+        "category": "foundation"
+      }
+    ],
+    "explore": [
+      {
+        "id": 1,
+        "title": "Lipstick",
+        "img": "https://4.imimg.com/data4/QY/OX/GLADMIN-3792183/1-250x250.jpg",
+        "quantity": 10,
+        "category": "foundation"
+      },
+      {
+        "id": 2,
+        "title": "Lips Products",
+        "img": "https://3.imimg.com/data3/RK/XF/MY-3792183/01-250x250.jpg",
+        "quantity": 3,
+        "category": "foundation"
+      },
+      {
+        "id": 3,
+        "title": "Bleach Cream",
+        "img": "https://3.imimg.com/data3/NL/QG/MY-3792183/fruit-bleach-250x250.jpg",
+        "quantity": 4,
+        "category": "foundation"
+      },
+      {
+        "id": 4,
+        "title": "Scrubs",
+        "img": "https://3.imimg.com/data3/QC/FL/MY-3792183/fairness-scrub-250x250.jpg",
+        "quantity": 6,
+        "category": "foundation"
+      },
+      {
+        "id": 5,
+        "title": "Eyes Products",
+        "img": "https://3.imimg.com/data3/ML/RO/MY-3792183/mascara-250x250.jpg",
+        "quantity": 4,
+        "category": "foundation"
+      }
+    ],
+    "suppliers": [
+      {
+        "id": 1,
+        "title": "Sunisa Glow Foundation",
+        "img": "https://5.imimg.com/data5/ANDROID/Default/2021/1/ZN/NA/WJ/10745527/product-jpeg-250x250.jpg",
+        "price": 145,
+        "company": "Modo Walker",
+        "addr": "New Delhi, Delhi, India",
+        "mob": "08045910047",
+        "category": "foundation"
+      },
+      {
+        "id": 2,
+        "title": "Dermacol Liquid",
+        "img": "https://5.imimg.com/data5/SELLER/Default/2021/10/SE/DZ/LI/62398458/dermacol-liquid-foundation-250x250.jpg",
+        "price": 1600,
+        "company": "Beauty Villa",
+        "addr": "New Delhi, Delhi, India",
+        "mob": "08048608086",
+        "category": "foundation"
+      },
+      {
+        "id": 3,
+        "title": "Mac Foundation",
+        "img": "https://4.imimg.com/data4/JK/VJ/ANDROID-10745527/product-250x250.jpeg",
+        "price": 249,
+        "company": "Rbr Enterprise",
+        "addr": "Nangloi,New Delhi, Delhi, India",
+        "mob": "08048617923",
+        "category": "foundation"
+      },
+      {
+        "id": 4,
+        "title": "Highlighter Face Glow Foundation",
+        "img": "https://5.imimg.com/data5/SELLER/Default/2021/11/AB/AS/PT/74013292/sunisa-foundation-250x250.jpeg",
+        "price": 65,
+        "company": "Power Agrotech",
+        "addr": "Civil Lines, New Delhi, Delhi, India",
+        "mob": "08048609843",
+        "category": "foundation"
+      }
+    ]
+  }
